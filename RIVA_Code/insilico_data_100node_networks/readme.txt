@@ -12,3 +12,4 @@ includes the MATLAB files for generating the results presented in the paper, for
 
 . Main_RIVA_fig_4.m: script for generating the results shown in Fig. 4 obtained by RIVA, compared to those of dynGenie3 and Bingo.
 
+Download data and results from https://mega.nz/folder/Xkp0WYDb#LQczAuXbtqavmBHk2R9mag/folder/P5h0BIDa
