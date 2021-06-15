@@ -1,6 +1,6 @@
 ./insilico_data_1565node_ecoli
 
-includes the MATLAB files for generating the results presented in the paper, for Figs. 2.
+includes the MATLAB files for generating the results presented in the paper, for Fig. 2.
 
 . Data_results_fig2: folder containing the data and the simulation results to be included in /insilico_data_1565node_ecoli.  
 
