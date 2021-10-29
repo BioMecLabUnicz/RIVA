@@ -4,7 +4,7 @@ includes the MATLAB files for generating the results presented in the paper. In 
 
 . Data_results_fig1: folder containing the data and the simulation results for Fig 1 to be included in /Paper_results_code (https://mega.nz/folder/b1pkzLiI#K719OS1_sWqZ7Pa9cHlNtQ)
 
-. Data_results_fig2: folder containing the data and the simulation results for Fig 2 to be included in /Paper_results_code ()
+. Data_results_fig2: folder containing the data and the simulation results for Fig 2 to be included in /Paper_results_code (https://mega.nz/folder/rthAmTBS#hHrPIL44t_FvM_wl0nUucQ)
 
 . Data_results_figs_3_4_S1: folder containing the data and the simulation results for Figs 3, 4 and S1 to be included in /Paper_results_code (https://mega.nz/folder/6gh0AZIK#1KxDyg8hcEQxocMNAj6qNw)
 
