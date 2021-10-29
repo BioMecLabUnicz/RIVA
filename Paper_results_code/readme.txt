@@ -1,8 +1,8 @@
 
 ./Paper_results_code
-includes the MATLAB files for generating the results presented in the paper.
+includes the MATLAB files for generating the results presented in the paper. In order to generate the figures, includes the following folders in this folder (Paper_results_code) 
 
-. Data_results_fig1: folder containing the data and the simulation results for Fig 1 to be included in /Paper_results_code
+. Data_results_fig1: folder containing the data and the simulation results for Fig 1 to be included in /Paper_results_code (https://mega.nz/folder/K1wEhDzI#jF2dPwcK5ouwg3EHV3E17w)
 
 . Data_results_fig2: folder containing the data and the simulation results for Fig 2 to be included in /Paper_results_code
 
